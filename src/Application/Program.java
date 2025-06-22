@@ -101,7 +101,7 @@ public class Program {
 				}
 				break;
 
-			case 4: // Mudar Tipo de Conta
+			case 4: // Muda Tipo de Conta
 				System.out.println("Você escolheu: Mudar Tipo de Conta.");
 				System.out.println("Escolha o novo tipo de conta:");
 				for (TipoConta tipo : TipoConta.values()) {
